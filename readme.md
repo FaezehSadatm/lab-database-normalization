@@ -4,7 +4,7 @@
 
 ### Instructions
 
-1. Use [dbdiagram.io](https://dbdiagram.io/home) or [draw.io](https://draw.io) to propose a new structure for the `Sakila` database.
-2. Define primary keys and foreign keys for the new database.
+1. I Used Mysql workbench's ERD diagram feature to ope the `Sakila` database.
+2. I defined new database to make film table normalize.
 
-![Sakila database](https://education-team-2020.s3-eu-west-1.amazonaws.com/data-analytics/3.4-lab-sakila-normalization.png)
+![Sakila database](New-Sakila-ERD.png)
